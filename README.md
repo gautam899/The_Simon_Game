@@ -3,7 +3,7 @@
 
 1. The Simon Game is a game of short-term memory Skill game developed by Ralph H. Baer and Howard J. Morrison.
 2. The device creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails, the game is over.
-3. This project is about creating the game using HTML, JavaScript, and CSS.
+3. This project is about creating the game using HTML, JavaScript, and CSS. 
 
 # How to play the game
 1. Click any key on the Keyboard to start the game. The moment you press any key on the board, you will see a flash on one of the buttons and "Level 1" on the top of the screen.
