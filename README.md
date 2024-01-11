@@ -20,4 +20,6 @@
 
 ![image](https://github.com/gautam899/The_Simon_Game/assets/124019261/77c236b5-44f0-4c84-bf03-129a71e9973e)
 
+Hosting link: https://gautam899.github.io/The_Simon_Game/
+
 
